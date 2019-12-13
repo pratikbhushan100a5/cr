@@ -1,0 +1,19 @@
+body {
+  background-color: #FBEEC1;
+}
+
+h1 {
+  color: #2E1114;
+  margin-left: 20px;
+}
+textarea {color: #64485C}
+h3 {color: #0C0032;}
+table {color: #F64C72;}
+<style>
+.vl {
+  border-left: 6px solid green;
+  height: 500px;
+}
+</style>
+
+<div class="vl"></div>
